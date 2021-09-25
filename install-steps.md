@@ -45,7 +45,7 @@
         effect: NoExecute
 ```
 
-1. создаем NS cert-mamager и запускаем установку через Apps
+1. создаем NS cert-manager и запускаем установку через Apps
 2. не забываем: crd=true, ns=cert-mamager
 3. создаем подписанта:
 
