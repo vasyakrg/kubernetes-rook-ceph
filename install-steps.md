@@ -73,8 +73,8 @@ spec:
           class: nginx
 ```
 
-3. создаем NS ingress-nginx и запускаем установку 4.0.1 версии
-4. должен создасться loadbalancer с белым адресом
+4. создаем NS ingress-nginx и запускаем установку 4.0.1 версии
+5. должен создасться loadbalancer с белым адресом
 
 ## Rook-ceph
 
